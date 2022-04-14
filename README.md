@@ -1,5 +1,5 @@
 # Progetto-Architetture
-Progetto realizzato per il corso "Architetture e Programmazione dei Sistemi di Elaborazione"
+Progetto realizzato in gruppo per il corso "Architetture e Programmazione dei Sistemi di Elaborazione"
 
 ---
 
